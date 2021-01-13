@@ -55,6 +55,6 @@ If you have any questions regarding requirements, do not hesitate to email your 
 
 ### Installation and running this solution
 1. Install the current version of Python (this was tested on 3.6 and 3.9) from https://www.python.org/downloads/
-2. Install and Django (tested on 3.1.5) via pip: `pip install django`
+2. Install and Django (tested on 3.1.5) via pip: `pip install django` or `python -m pip install django`
 3. Navigate to this directory, run `python manage.py runserver` to run a local server
-4. Visit `localhost:8000`
+4. Visit `localhost:8000` using a web browser
